@@ -6,4 +6,4 @@
 
 ## 程式使用函式庫
 使用Masm32函式庫(user32.lib、kernel32.lib、masm32.lib、msimg32.lib、winmm.lib) 
-
+![image](picture or gif url)
