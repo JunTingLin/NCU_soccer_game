@@ -3,7 +3,15 @@
 ## 組員名單:
 林俊霆109403537&emsp;&emsp;&emsp;王柏勛109403055 <br>
 林采璇109403533&emsp;&emsp;&emsp;洪琬哲109403535
-
+## 程式執行截圖
+- GameState==1 （歡迎畫面）
+![image](images/menu_image.bmp)
+- GameState==2 （遊戲畫面）
+![image](images/background.bmp)
+- GameState==3 （玩家1獲勝畫面）
+![image](images/victor_player1.bmp)
+-	GameState==4 （玩家2獲勝畫面）
+![image](images/victor_player2.bmp)
 ## 程式使用函式庫
 * 使用Masm32函式庫(user32.lib、kernel32.lib、masm32.lib、msimg32.lib、winmm.lib) 
 ![image](other_pic/程式使用函式庫1.png)
